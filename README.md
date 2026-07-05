@@ -17,6 +17,22 @@ An AI-powered crypto trading bot that uses **Groq LLaMA 70B** to analyze markets
 
 ---
 
+
+python
+ai
+trading
+cryptocurrency
+binance
+discord-bot
+machine-learning
+llm
+finance
+automation
+api
+websocket
+fastapi
+dashboard
+technical-analysis
 ## Stage 5 Changes (what changed and why)
 
 ### `trader.py`
