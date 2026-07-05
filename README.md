@@ -1,24 +1,18 @@
 # 📸 Dashboard Preview
 
-<table>
-<tr>
-<td width="50%" align="center">
+## 📊 Main Dashboard
 
-### 📊 Main Dashboard
+<p align="center">
+  <img src="dashboard.png" alt="Main Dashboard" width="100%">
+</p>
 
-<img src="dashboard.png">
+---
 
-</td>
+## 💹 Trade Dashboard
 
-<td width="50%" align="center">
-
-### 💹 Trade Dashboard
-
-<img src="dashboard trades.png">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="dashboard trades.png" alt="Trade Dashboard" width="100%">
+</p>
 
 # 🤖 AI Crypto Trading Bot — Stage 5
 
