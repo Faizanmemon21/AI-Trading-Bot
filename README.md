@@ -1,3 +1,25 @@
+# 📸 Dashboard Preview
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📊 Main Dashboard
+
+<img src="dashboard.png">
+
+</td>
+
+<td width="50%" align="center">
+
+### 💹 Trade Dashboard
+
+<img src="dashboard trades.png">
+
+</td>
+</tr>
+</table>
+
 # 🤖 AI Crypto Trading Bot — Stage 5
 
 An AI-powered crypto trading bot that uses **Groq LLaMA 70B** to analyze markets, trades on **Binance Testnet** (paper money), and reports everything to **Discord**.
